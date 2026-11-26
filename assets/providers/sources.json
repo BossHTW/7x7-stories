@@ -1,0 +1,37 @@
+{
+  "glide": {
+    "path": "assets/providers/glide.svg",
+    "source": "https://www.glide.org/wp-content/uploads/2020/06/glide-logo.svg",
+    "bytes": 134671
+  },
+  "larkin": {
+    "path": "assets/providers/larkin.png",
+    "source": "https://larkinstreetyouth.org/wp-content/uploads/2026/02/favicon-1-300x300.png",
+    "bytes": 3726
+  },
+  "hype": {
+    "path": "assets/providers/hype.png",
+    "source": "https://images.squarespace-cdn.com/content/v1/5bae87bb11f7846db3002ca6/18829b6c-6f80-461c-9184-647b301320f8/HYPE%2BLogo%2Btransparent.png?format=300w",
+    "bytes": 86355
+  },
+  "atc": {
+    "path": "assets/providers/atc.png",
+    "source": "https://atthecrossroads.org/wp-content/uploads/2023/10/cropped-ATC-website-Tab-Logo-192x192.png",
+    "bytes": 4050
+  },
+  "hospitality": {
+    "path": "assets/providers/hospitality.png",
+    "source": "https://images.squarespace-cdn.com/content/v1/6865e2fa51a03c64b193730d/4a047aaf-3647-42d5-b8a9-b79b6f59a62f/Logo+Full+Size+%282%29.png?format=300w",
+    "bytes": 9673
+  },
+  "mission": {
+    "path": "assets/providers/mission.png",
+    "source": "https://www.missionaction.org/wp-content/uploads/ma_logo_butterfly.png",
+    "bytes": 6722
+  },
+  "hya": {
+    "path": "assets/providers/hya.png",
+    "source": "https://www.homelessyouthalliance.org/wp-content/uploads/2020/05/cropped-cropped-cropped-cropped-cropped-cropped-cropped-cropped-HYA-logo1-192x192.png",
+    "bytes": 53741
+  }
+}

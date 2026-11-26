@@ -1,0 +1,776 @@
+[
+  {
+    "id": "glide-tay",
+    "name": "GLIDE TAY Health & Wellness Center",
+    "area": "Lower Polk",
+    "categories": [
+      "Basics",
+      "Housing",
+      "Health",
+      "Pets"
+    ],
+    "minAge": 18,
+    "maxAge": 27,
+    "ageLabel": "18–27",
+    "summary": "A 24-hour place for young adults facing homelessness or housing instability.",
+    "services": "Showers, laundry, clothing, lockers, health support, case management, technology access, and help with work and education.",
+    "eligibility": "Ages 18–27 facing homelessness or housing instability in San Francisco.",
+    "steps": "Call or email the TAY team about access and the services you need. This is a respite and wellness center; do not assume a shelter bed is available.",
+    "hours": "24 hours a day, seven days a week. Individual services may have separate schedules.",
+    "address": "888 Post Street, San Francisco, CA",
+    "phone": "415-674-6242",
+    "email": "tayhwc@glide.org",
+    "cost": "Confirm any service-specific conditions with the team.",
+    "access": "Pet care support is listed. Step-free access, interpretation, and other accommodations need confirmation.",
+    "note": "This is the TAY center on Post Street, not GLIDE’s general walk-in center at 330 Ellis.",
+    "sources": [
+      [
+        "GLIDE TAY center",
+        "https://www.glide.org/tay-center/"
+      ]
+    ],
+    "map": true,
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "coordinates": [
+      37.787330155136,
+      -122.416425815754
+    ],
+    "geocodeSource": "US Census address geocoder",
+    "matchedAddress": "888 POST ST, SAN FRANCISCO, CA, 94109",
+    "shortName": "GLIDE",
+    "logo": "assets/providers/glide.svg",
+    "logoSource": "https://www.glide.org/wp-content/uploads/2020/06/glide-logo.svg"
+  },
+  {
+    "id": "larkin-ecc",
+    "name": "Larkin Street: Engagement & Community Center",
+    "area": "Tenderloin",
+    "categories": [
+      "Basics",
+      "Housing",
+      "Health",
+      "Work & learning"
+    ],
+    "minAge": 18,
+    "maxAge": 24,
+    "ageLabel": "18–24",
+    "summary": "Meals, showers, laundry, rest, and support with next steps.",
+    "services": "Basic needs, clinic and counseling, case management, housing navigation, education, and employment support.",
+    "eligibility": "This drop-in program lists ages 18–24. Other Larkin Street programs have different eligibility.",
+    "steps": "Start at the ECC. Basic needs are listed without appointments; housing intake requires case management. Contact the center about first-time visits.",
+    "hours": "Posted walk-ins: Mon–Fri 10am–noon; appointments 1–4pm. Breakfast 9–10am, lunch noon–1pm; showers/laundry 9am–3pm. Ask about access outside walk-in hours.",
+    "address": "134 Golden Gate Avenue, San Francisco, CA",
+    "phone": "415-673-0911",
+    "email": "",
+    "cost": "Ask about any program-specific requirements.",
+    "access": "Showers, bathrooms, laundry, computers and Wi-Fi listed. Disability accommodations and languages not confirmed.",
+    "note": "The provider lists different basic-service and intake windows; call before travelling.",
+    "sources": [
+      [
+        "Larkin Street ECC",
+        "https://larkinstreetyouth.org/drop-in/"
+      ]
+    ],
+    "map": true,
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "coordinates": [
+      37.782074780386,
+      -122.412661716393
+    ],
+    "geocodeSource": "US Census address geocoder",
+    "matchedAddress": "134 GOLDEN GATE AVE, SAN FRANCISCO, CA, 94102",
+    "shortName": "LSY",
+    "logo": "assets/providers/larkin.png",
+    "logoSource": "https://larkinstreetyouth.org/wp-content/uploads/2026/02/favicon-1-300x300.png"
+  },
+  {
+    "id": "lyric",
+    "name": "LYRIC: Lavender Youth Recreation & Information Center",
+    "area": "Castro",
+    "categories": [
+      "LGBTQ+",
+      "Community",
+      "Housing",
+      "Work & learning"
+    ],
+    "minAge": null,
+    "maxAge": 24,
+    "ageLabel": "24 & younger",
+    "summary": "Community, youth development, health access, and housing support for LGBTQQ+ youth and allies.",
+    "services": "Youth development, health access, and housing programs.",
+    "eligibility": "LGBTQQ+ youth and allies ages 24 and younger. Ask about the specific program’s age range.",
+    "steps": "Contact LYRIC or use its Join LYRIC link to ask about enrollment and the current youth drop-in location.",
+    "hours": "General posted hours: Mon–Fri 10am–6pm. Program and drop-in schedules may differ.",
+    "address": "127 Collingwood Street, San Francisco, CA",
+    "phone": "415-703-6150",
+    "email": "lyricinfo@lyric.org",
+    "cost": "Confirm with the program.",
+    "access": "Ask about step-free access, interpretation, and other accommodations.",
+    "note": "Map shows the published program/mailing address. Confirm where your chosen activity meets.",
+    "sources": [
+      [
+        "LYRIC programs",
+        "https://lyric.org/programs/"
+      ]
+    ],
+    "map": true,
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "coordinates": [
+      37.76037686863,
+      -122.435997426218
+    ],
+    "geocodeSource": "US Census address geocoder",
+    "matchedAddress": "127 COLLINGWOOD ST, SAN FRANCISCO, CA, 94114",
+    "shortName": "LYRIC"
+  },
+  {
+    "id": "sfcenter",
+    "name": "SF LGBT Center: Youth Services",
+    "area": "Upper Market",
+    "categories": [
+      "LGBTQ+",
+      "Basics",
+      "Housing",
+      "Community"
+    ],
+    "minAge": 16,
+    "maxAge": 24,
+    "ageLabel": "16–24",
+    "summary": "An LGBTQ+ youth drop-in space with practical support and community connections.",
+    "services": "Food and hygiene supplies, clothing, gender-affirming gear, housing navigation, mental health support, and workshops.",
+    "eligibility": "Youth services focus on LGBTQ+ young people ages 16–24.",
+    "steps": "Visit youth drop-in or contact the team for navigation appointments. Ask about eligibility for the particular service you want.",
+    "hours": "Youth drop-in: Mon–Thu 10am–6pm, according to the program page.",
+    "address": "1800 Market Street, San Francisco, CA",
+    "phone": "415-865-5555",
+    "email": "youth@sfcenter.org",
+    "cost": "Mental health services are listed as free; confirm other program conditions.",
+    "access": "Virtual appointments are listed for some services. Ask about physical access and interpretation.",
+    "note": "Youth-service hours can differ from the building’s general opening hours.",
+    "sources": [
+      [
+        "SF LGBT Center youth services",
+        "https://www.sfcenter.org/program/youth-services/"
+      ]
+    ],
+    "map": true,
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "coordinates": [
+      37.771780838701,
+      -122.423767501524
+    ],
+    "geocodeSource": "US Census address geocoder",
+    "matchedAddress": "1800 MARKET ST, SAN FRANCISCO, CA, 94102",
+    "shortName": "LGBT"
+  },
+  {
+    "id": "hype",
+    "name": "HYPE Center",
+    "area": "Mission / Potrero",
+    "categories": [
+      "Basics",
+      "Community",
+      "Health",
+      "Work & learning"
+    ],
+    "minAge": 14,
+    "maxAge": 24,
+    "ageLabel": "14–24",
+    "summary": "A youth-designed drop-in center bringing resources and providers together.",
+    "services": "Kitchen and food shop, clothing/hygiene supplies, computers, printing, laundry, showers, and partner services.",
+    "eligibility": "Young people ages 14–24. No referral required; new members complete an orientation, profile, and consent form.",
+    "steps": "New-member orientations are posted for 11am–5pm on open days. Call ahead if you need another time or a specific service.",
+    "hours": "Mon, Tue, Thu, Fri 10am–6pm; Wed noon–6pm. Check the current calendar for changes.",
+    "address": "198 Potrero Avenue, San Francisco, CA",
+    "phone": "415-525-4438",
+    "email": "hypecenter@freedom-forward.org",
+    "cost": "Basic resource shop items are free.",
+    "access": "Text 415-300-0792 is also listed. Ask about physical access, languages, and partner availability.",
+    "note": "Laundry, showers, and partner services may need appointments. Membership does not guarantee every service is available that day.",
+    "sources": [
+      [
+        "Membership",
+        "https://www.freedom-forward.org/hypecenter"
+      ],
+      [
+        "Hours and contact",
+        "https://www.freedom-forward.org/hypecontact"
+      ],
+      [
+        "On-site resources",
+        "https://www.freedom-forward.org/hyperesources"
+      ]
+    ],
+    "map": true,
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "coordinates": [
+      37.767134587182,
+      -122.407762981954
+    ],
+    "geocodeSource": "US Census address geocoder",
+    "matchedAddress": "198 POTRERO AVE, SAN FRANCISCO, CA, 94103",
+    "shortName": "HYPE",
+    "logo": "assets/providers/hype.png",
+    "logoSource": "https://images.squarespace-cdn.com/content/v1/5bae87bb11f7846db3002ca6/18829b6c-6f80-461c-9184-647b301320f8/HYPE%2BLogo%2Btransparent.png?format=300w"
+  },
+  {
+    "id": "atc",
+    "name": "At The Crossroads",
+    "area": "Downtown / outreach",
+    "categories": [
+      "Basics",
+      "Housing",
+      "Community",
+      "Work & learning"
+    ],
+    "minAge": null,
+    "maxAge": null,
+    "ageLabel": "Ask about eligibility",
+    "summary": "Long-term support for young people experiencing housing instability and disconnection from services.",
+    "services": "Street outreach, essentials, supportive counseling, and connections to housing, work, education, and healthcare.",
+    "eligibility": "Focuses on disconnected young adults experiencing housing instability and poverty. No fixed intake age cutoff was found on the current services page.",
+    "steps": "Call to connect with an outreach counselor. Do not assume the office is a walk-in center.",
+    "hours": "Current intake and office hours need confirmation.",
+    "address": "167 Jessie Street, San Francisco, CA",
+    "phone": "415-487-0691",
+    "email": "",
+    "cost": "Confirm with the team.",
+    "access": "Services include daytime and nighttime street outreach. Ask about meeting formats and accommodations.",
+    "note": "Office address only; not mapped as a confirmed drop-in destination.",
+    "sources": [
+      [
+        "ATC services and contact",
+        "https://atthecrossroads.org/our-services/"
+      ]
+    ],
+    "map": false,
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "shortName": "ATC",
+    "logo": "assets/providers/atc.png",
+    "logoSource": "https://atthecrossroads.org/wp-content/uploads/2023/10/cropped-ATC-website-Tab-Logo-192x192.png"
+  },
+  {
+    "id": "hh-tenderloin",
+    "name": "Hospitality House: Tenderloin Self-Help Center",
+    "area": "Tenderloin",
+    "categories": [
+      "Basics",
+      "Housing",
+      "Health",
+      "Community"
+    ],
+    "minAge": null,
+    "maxAge": null,
+    "ageLabel": "Ask about eligibility",
+    "summary": "Low-threshold peer support and help navigating housing, benefits, and care.",
+    "services": "Peer counseling, case management, harm-reduction therapy, support groups, income support, and housing referrals.",
+    "eligibility": "Serves unhoused people and neighborhood residents. Youth-specific age rules not published on the page checked.",
+    "steps": "Call the self-help center about current drop-in access and services.",
+    "hours": "Current self-help-center hours need confirmation.",
+    "address": "146 Leavenworth Street, San Francisco, CA",
+    "phone": "415-749-2143",
+    "email": "info@hospitalityhouse.org",
+    "cost": "Confirm any service-specific conditions.",
+    "access": "Ask about step-free access, interpretation, and accommodations.",
+    "note": "This listing is for the self-help center, not the separate upstairs shelter.",
+    "sources": [
+      [
+        "Hospitality House programs",
+        "https://www.hospitalityhouse.org/"
+      ]
+    ],
+    "map": true,
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "coordinates": [
+      37.782312500942,
+      -122.413883321594
+    ],
+    "geocodeSource": "US Census address geocoder",
+    "matchedAddress": "146 LEAVENWORTH ST, SAN FRANCISCO, CA, 94102",
+    "shortName": "HH",
+    "logo": "assets/providers/hospitality.png",
+    "logoSource": "https://images.squarespace-cdn.com/content/v1/6865e2fa51a03c64b193730d/4a047aaf-3647-42d5-b8a9-b79b6f59a62f/Logo+Full+Size+%282%29.png?format=300w"
+  },
+  {
+    "id": "hh-sixth",
+    "name": "Hospitality House: Sixth Street Self-Help Center",
+    "area": "SoMa",
+    "categories": [
+      "Basics",
+      "Housing",
+      "Health"
+    ],
+    "minAge": null,
+    "maxAge": null,
+    "ageLabel": "Ask about eligibility",
+    "summary": "Peer support, case management, and connections to basic needs and care.",
+    "services": "Housing referrals, income support, behavioral health resources, therapy, and basic amenities.",
+    "eligibility": "Youth-specific age rules not confirmed; ask the center.",
+    "steps": "Call for current drop-in hours and the support available.",
+    "hours": "Current hours need confirmation.",
+    "address": "169 Sixth Street, San Francisco, CA",
+    "phone": "415-546-5193",
+    "email": "info@hospitalityhouse.org",
+    "cost": "Confirm with the center.",
+    "access": "Physical access and language availability not confirmed.",
+    "note": "Use the program phone on the current official page; older directories list different numbers.",
+    "sources": [
+      [
+        "Hospitality House programs",
+        "https://www.hospitalityhouse.org/"
+      ]
+    ],
+    "map": true,
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "coordinates": [
+      37.780104809606,
+      -122.407516864487
+    ],
+    "geocodeSource": "US Census address geocoder",
+    "matchedAddress": "169 6TH ST, SAN FRANCISCO, CA, 94103",
+    "shortName": "HH",
+    "logo": "assets/providers/hospitality.png",
+    "logoSource": "https://images.squarespace-cdn.com/content/v1/6865e2fa51a03c64b193730d/4a047aaf-3647-42d5-b8a9-b79b6f59a62f/Logo+Full+Size+%282%29.png?format=300w"
+  },
+  {
+    "id": "mission-dolores",
+    "name": "Mission Action: Dolores Shelter / Jazzie’s Place",
+    "area": "Mission",
+    "categories": [
+      "Housing",
+      "LGBTQ+",
+      "Basics"
+    ],
+    "minAge": 18,
+    "maxAge": null,
+    "ageLabel": "Adults 18+",
+    "summary": "Overnight shelter and case management; includes LGBTQ+-affirming Jazzie’s Place.",
+    "services": "Shelter, meals, housing and benefits support. Walk-up space is first-come, first-served.",
+    "eligibility": "Adults experiencing homelessness. Ask about bed availability and intake requirements.",
+    "steps": "Line-up starts no earlier than 5:30pm; overnight entry starts at 6pm. Earlier intake does not mean you can stay onsite all afternoon.",
+    "hours": "Shelter daily 6pm–8am; case management noon–6pm. Intake/check-in 1–10pm.",
+    "address": "1050 South Van Ness Avenue, San Francisco, CA",
+    "phone": "415-282-6209",
+    "email": "",
+    "cost": "Confirm with Mission Action.",
+    "access": "Bilingual care is described; ask about languages and physical accommodations. Phone shown is the main office.",
+    "note": "Bed availability is not live. Call before travelling when possible.",
+    "sources": [
+      [
+        "Mission Action shelter programs",
+        "https://www.missionaction.org/our-work/housing-shelter/"
+      ]
+    ],
+    "map": true,
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "coordinates": [
+      37.756348021142,
+      -122.416714332439
+    ],
+    "geocodeSource": "US Census address geocoder",
+    "matchedAddress": "1050 S VAN NESS AVE, SAN FRANCISCO, CA, 94110",
+    "shortName": "MA",
+    "logo": "assets/providers/mission.png",
+    "logoSource": "https://www.missionaction.org/wp-content/uploads/ma_logo_butterfly.png"
+  },
+  {
+    "id": "mission-tay",
+    "name": "Mission Action: Casa Colibrí & Casa Esperanza",
+    "area": "Mission / Outer Mission",
+    "categories": [
+      "Housing"
+    ],
+    "minAge": 18,
+    "maxAge": 24,
+    "ageLabel": "18–24",
+    "summary": "Supportive housing for young adults, accessed through Coordinated Entry.",
+    "services": "Housing with case management and support through Larkin Street. Casa Esperanza prioritizes historically underserved communities including Latinx, Indigenous, monolingual, and immigrant youth.",
+    "eligibility": "Ages 18–24 who have experienced homelessness; referral through SF Coordinated Entry required.",
+    "steps": "Start with a Youth Access Point such as Larkin Street for an assessment and referral. These are not walk-up shelter beds.",
+    "hours": "Referral process; no public drop-in hours listed.",
+    "address": "Referral-based housing; contact a Youth Access Point",
+    "phone": "415-282-6209",
+    "email": "",
+    "cost": "Ask the referring navigator about program and tenancy requirements.",
+    "access": "Casa Esperanza describes bilingual support. Ask the navigator about accommodations.",
+    "note": "No residential address or map pin published here. Main-office phone shown.",
+    "sources": [
+      [
+        "Mission Action housing eligibility",
+        "https://www.missionaction.org/our-work/housing-shelter/"
+      ]
+    ],
+    "map": false,
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "shortName": "MA",
+    "logo": "assets/providers/mission.png",
+    "logoSource": "https://www.missionaction.org/wp-content/uploads/ma_logo_butterfly.png"
+  },
+  {
+    "id": "spca-clinic",
+    "name": "SF SPCA: Community Veterinary Clinic",
+    "area": "Excelsior",
+    "categories": [
+      "Pets"
+    ],
+    "minAge": null,
+    "maxAge": null,
+    "ageLabel": "Pet guardians; ask about booking",
+    "summary": "Lower-cost preventative care and treatment for minor pet conditions.",
+    "services": "Vaccinations, parasite prevention, minor illness care, and spay/neuter consultations. No emergency care, X-rays/lab diagnostics, or health certificates.",
+    "eligibility": "Dog and cat guardians; confirm costs and booking requirements. Youth-specific booking rules not stated.",
+    "steps": "Book online or text 415-554-3084 before visiting.",
+    "hours": "Wed–Sat 8am–6pm.",
+    "address": "4527 Mission Street, San Francisco, CA",
+    "phone": "",
+    "text": "415-554-3084",
+    "email": "",
+    "cost": "Affordable care, not advertised as universally free. Request current fees.",
+    "access": "Spanish and Chinese language support is advertised. Confirm physical access and interpretation needs.",
+    "note": "This clinic is different from the full-service hospital and mobile vaccine events.",
+    "sources": [
+      [
+        "SF SPCA Community Clinic",
+        "https://www.sfspca.org/veterinary-care/community-clinic/"
+      ]
+    ],
+    "map": true,
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "coordinates": [
+      37.725831890937,
+      -122.4338448671
+    ],
+    "geocodeSource": "US Census address geocoder",
+    "matchedAddress": "4527 MISSION ST, SAN FRANCISCO, CA, 94112",
+    "shortName": "SPCA"
+  },
+  {
+    "id": "spca-mobile",
+    "name": "SF SPCA: Mobile Vaccine Clinics",
+    "area": "Rotating locations",
+    "categories": [
+      "Pets"
+    ],
+    "minAge": null,
+    "maxAge": null,
+    "ageLabel": "Pet guardians; ask about booking",
+    "summary": "No-cost preventative pet care at scheduled community clinics.",
+    "services": "Vaccines, flea/tick prevention, and connections to low- or no-cost spay/neuter services.",
+    "eligibility": "Mobile clinics prioritize dogs, especially puppies and dogs without prior vaccines. Cats use designated indoor events. Ask about your pet and booking.",
+    "steps": "Check the live provider schedule. Limited online appointments open the Wednesday before a clinic; call/text for help without internet or email.",
+    "hours": "Scheduled events only; locations rotate.",
+    "address": "Check the official event schedule",
+    "phone": "415-554-3084",
+    "email": "",
+    "cost": "No-cost preventative services listed.",
+    "access": "Phone/text booking help available. Confirm access at the specific event location.",
+    "note": "The page contains some older dates; confirm the next event rather than relying on an old flyer.",
+    "sources": [
+      [
+        "SF SPCA mobile schedule",
+        "https://www.sfspca.org/veterinary-care/mobile-vaccine-clinic/"
+      ]
+    ],
+    "map": false,
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "shortName": "SPCA"
+  },
+  {
+    "id": "huckleberry",
+    "name": "Huckleberry House",
+    "area": "Haight / Page Street",
+    "categories": [
+      "Housing",
+      "Health",
+      "Community"
+    ],
+    "minAge": 12,
+    "maxAge": 18,
+    "ageLabel": "12–17; some 18-year-olds",
+    "summary": "Emergency shelter and support for teens and families.",
+    "services": "24-hour crisis intervention and short-term shelter.",
+    "eligibility": "Ages 12–17; may house 18-year-olds enrolled in high school or a GED program. Call about your situation and available space.",
+    "steps": "Call the house directly to discuss shelter access; do not assume a bed is available.",
+    "hours": "24-hour contact and shelter support.",
+    "address": "1292 Page Street, San Francisco, CA",
+    "phone": "415-621-2929",
+    "email": "hh@huckleberryyouth.org",
+    "cost": "Confirm service-specific conditions with staff.",
+    "access": "Ask about languages, disability access, and parent/guardian requirements.",
+    "note": "This is Huckleberry Youth Programs in San Francisco, not the similarly named Ohio organization.",
+    "sources": [
+      [
+        "Huckleberry House shelter",
+        "https://www.huckleberryyouth.org/crisis-shelter/"
+      ],
+      [
+        "SF location directory",
+        "https://www.sfcaht.org/huckleberry-house.html"
+      ]
+    ],
+    "map": true,
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "coordinates": [
+      37.771648251421,
+      -122.442036121868
+    ],
+    "geocodeSource": "US Census address geocoder",
+    "matchedAddress": "1292 PAGE ST, SAN FRANCISCO, CA, 94117",
+    "shortName": "HUCK"
+  },
+  {
+    "id": "stanthony",
+    "name": "St. Anthony’s Dining Room",
+    "area": "Tenderloin",
+    "categories": [
+      "Basics",
+      "Community"
+    ],
+    "minAge": null,
+    "maxAge": null,
+    "ageLabel": "Community meals",
+    "summary": "Daily meal service in the Tenderloin.",
+    "services": "Breakfast and lunch, plus weekday take-away afternoon meals.",
+    "eligibility": "Community meal program. Ask about any access requirements or dietary needs.",
+    "steps": "Go to the dining room during meal service; check the official menu and service updates.",
+    "hours": "Daily breakfast starts 7am; lunch 10am–1:30pm. Weekday takeaway meal at 2pm.",
+    "address": "121 Golden Gate Avenue, San Francisco, CA",
+    "phone": "415-241-2600",
+    "email": "info@stanthonysf.org",
+    "cost": "Free meal program.",
+    "access": "Ask about dietary options, step-free access, and accommodations.",
+    "note": "Dining room is at 121 Golden Gate; other St. Anthony’s services are at separate locations and may need appointments.",
+    "sources": [
+      [
+        "Dining room hours",
+        "https://www.stanthonysf.org/services/dining-room/"
+      ]
+    ],
+    "map": true,
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "coordinates": [
+      37.781968177161,
+      -122.412587513221
+    ],
+    "geocodeSource": "US Census address geocoder",
+    "matchedAddress": "121 GOLDEN GATE AVE, SAN FRANCISCO, CA, 94102",
+    "shortName": "ST A"
+  },
+  {
+    "id": "hya",
+    "name": "Homeless Youth Alliance",
+    "area": "Haight / outreach",
+    "categories": [
+      "Basics",
+      "Health",
+      "Community",
+      "Housing"
+    ],
+    "minAge": null,
+    "maxAge": null,
+    "ageLabel": "Youth / young adults; confirm",
+    "summary": "Street outreach, practical support, and connections to care for unhoused young people.",
+    "services": "Outreach counseling, essentials, referrals, and harm-reduction support.",
+    "eligibility": "Focuses on youth and young adults experiencing homelessness. Confirm the age rules for the service you need.",
+    "steps": "Call the outreach counselors at 415-318-6384 for the current location and schedule.",
+    "hours": "Current service hours and drop-in availability need confirmation.",
+    "address": "Call outreach for the current service location",
+    "phone": "415-318-6384",
+    "email": "",
+    "cost": "Confirm with outreach.",
+    "access": "Ask about meeting formats and accommodations.",
+    "note": "October 2026 update describes a future drop-in at 1770 Haight pending renovations; an older page lists The Hive. Do not assume either is currently open for drop-in.",
+    "sources": [
+      [
+        "October 2026 location update",
+        "https://www.homelessyouthalliance.org/update-dreams-come-true/"
+      ],
+      [
+        "HYA programs (older location details)",
+        "https://www.homelessyouthalliance.org/programs/"
+      ]
+    ],
+    "map": false,
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "shortName": "HYA",
+    "logo": "assets/providers/hya.png",
+    "logoSource": "https://www.homelessyouthalliance.org/wp-content/uploads/2020/05/cropped-cropped-cropped-cropped-cropped-cropped-cropped-cropped-HYA-logo1-192x192.png"
+  },
+  {
+    "id": "vetsos",
+    "name": "Vet SOS",
+    "area": "Rotating locations",
+    "categories": [
+      "Pets"
+    ],
+    "minAge": null,
+    "maxAge": null,
+    "ageLabel": "Eligible pet guardians",
+    "summary": "Free veterinary outreach for pets of unhoused San Franciscans.",
+    "services": "Wellness care, vaccines, supplies, and referrals. Clinics are by appointment.",
+    "eligibility": "Unhoused SF pet guardians, or formerly unhoused people in transitional/supportive housing for under two years. Continued service requires a housing-status letter and spay/neuter by the second visit, with a puppy/kitten vaccine exception.",
+    "steps": "Call 415-355-2248 or email vetsos@sfccc.org to check eligibility and arrange an appointment.",
+    "hours": "Twice-monthly pop-up clinics; ask for the next available appointment.",
+    "address": "Appointment location supplied by the team",
+    "phone": "415-355-2248",
+    "email": "vetsos@sfccc.org",
+    "cost": "Free for eligible clients.",
+    "access": "Ask about clinic-site access and language support.",
+    "note": "Do not travel to the organization’s administrative office for a clinic.",
+    "sources": [
+      [
+        "Vet SOS overview",
+        "https://www.sfccc.org/veterinary-street-outreach-services"
+      ],
+      [
+        "Eligibility and appointments",
+        "https://sfccc.squarespace.com/eligibility-vetsos"
+      ]
+    ],
+    "map": false,
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "shortName": "VET SOS"
+  },
+  {
+    "id": "cyc",
+    "name": "CYC: Community Youth Center",
+    "area": "Tenderloin",
+    "categories": [
+      "Community",
+      "Health",
+      "Work & learning"
+    ],
+    "minAge": null,
+    "maxAge": null,
+    "ageLabel": "Ages vary by program",
+    "summary": "Youth programs, counseling referrals, learning, and community connections.",
+    "services": "Youth development, school and after-school programs, behavioral health referrals, and employment support.",
+    "eligibility": "Program-specific ages and enrollment rules. Ask which program fits your age and needs.",
+    "steps": "For general navigation, call the Post Street office or email hello@cycsf.org. Health and wellness intake: 415-775-2636, Mon–Fri 9am–5pm.",
+    "hours": "Offices offer community drop-in help during business hours; exact Post Street hours and program schedules need confirmation.",
+    "address": "1038 Post Street, San Francisco, CA",
+    "phone": "415-775-2641",
+    "email": "hello@cycsf.org",
+    "cost": "Ask about the specific program; fees are not confirmed here.",
+    "access": "Culturally and linguistically responsive services are described. Ask about languages and physical access for your program.",
+    "note": "This pin is the Post Street office for navigation. Programs run at different offices and schools; confirm where to go.",
+    "sources": [
+      [
+        "CYC contact and offices",
+        "https://www.cycsf.org/contact/"
+      ],
+      [
+        "CYC programs",
+        "https://www.cycsf.org/theory-of-change/"
+      ],
+      [
+        "Health and wellness intake",
+        "https://www.cycsf.org/theory-of-change/health-and-wellness/"
+      ]
+    ],
+    "map": true,
+    "coordinates": [
+      37.787011105557,
+      -122.418941051732
+    ],
+    "matchedAddress": "1038 POST ST, SAN FRANCISCO, CA, 94109",
+    "geocodeSource": "US Census address geocoder",
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "shortName": "CYC"
+  },
+  {
+    "id": "cyc-yawl",
+    "name": "CYC: Young Adult Worklink",
+    "area": "Citywide / program locations",
+    "categories": [
+      "Work & learning"
+    ],
+    "minAge": 16,
+    "maxAge": 24,
+    "ageLabel": "16–24",
+    "summary": "Job-readiness workshops and individual career support for young adults.",
+    "services": "Resume and cover-letter help, interview practice, job searching, professional communication, and one-to-one career services.",
+    "eligibility": "Ages 16–24. Ask about current cohort enrollment and any additional requirements.",
+    "steps": "Email yawl@cycsf.org or use the registration link on the official program page. Confirm where the next cohort meets.",
+    "hours": "Cohort-based; ask for the next intake and workshop schedule.",
+    "address": "Confirm the current program location with the YAWL team",
+    "phone": null,
+    "email": "yawl@cycsf.org",
+    "cost": "Ask the team; the program page does not specify fees.",
+    "access": "Ask about language support, remote participation, and accommodations.",
+    "note": "The program page lists several CYC offices but does not identify a current cohort venue. No walk-in location is assumed.",
+    "sources": [
+      [
+        "CYC Young Adult Worklink",
+        "https://www.cycsf.org/program/yawl/"
+      ]
+    ],
+    "map": false,
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "shortName": "CYC"
+  },
+  {
+    "id": "spca-hospital",
+    "name": "SF SPCA: Mission Veterinary Hospital",
+    "area": "Mission / Potrero",
+    "categories": [
+      "Pets"
+    ],
+    "minAge": null,
+    "maxAge": null,
+    "ageLabel": "Pet guardians; appointment needed",
+    "summary": "Veterinary care at the Mission campus near HYPE Center.",
+    "services": "Pet exams, vaccinations, testing, dental treatment, illness and injury care, and urgent-care appointments.",
+    "eligibility": "Pet guardians. Call to ask about appointments, pet needs, and financial assistance eligibility.",
+    "steps": "Book online or call/text 415-554-3030. Ask for an estimate and any assistance options before booking.",
+    "hours": "Mon–Sat 8am–6pm, by appointment. Holiday hours may differ.",
+    "address": "201 Alabama Street, San Francisco, CA",
+    "phone": "415-554-3030",
+    "email": "hospital@sfspca.org",
+    "cost": "Paid veterinary care. Ask about financial assistance; approval and current eligibility have not been confirmed.",
+    "access": "Spanish and Chinese are advertised. Confirm interpretation and physical-access needs when booking.",
+    "note": "This is the hospital near HYPE, separate from the Community Veterinary Clinic at 4527 Mission Street. It is not listed as a free walk-in clinic or a 24-hour emergency hospital.",
+    "sources": [
+      [
+        "SF SPCA hospital",
+        "https://www.sfspca.org/veterinary-care/hospital/"
+      ],
+      [
+        "Hours and locations",
+        "https://www.sfspca.org/about/hours-locations/"
+      ],
+      [
+        "Hospital contact",
+        "https://www.sfspca.org/about/contact-us/"
+      ]
+    ],
+    "map": true,
+    "coordinates": [
+      37.766831427002,
+      -122.412471174528
+    ],
+    "matchedAddress": "201 ALABAMA ST, SAN FRANCISCO, CA, 94103",
+    "geocodeSource": "US Census address geocoder",
+    "checked": "2026-11-24",
+    "verification": "Official website checked; not directly confirmed",
+    "shortName": "SPCA"
+  }
+]
